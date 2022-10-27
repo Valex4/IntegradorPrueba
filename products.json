@@ -1,0 +1,20 @@
+[
+    { 
+        "nombre":"jabon rosa venus",
+        "categoria":"limpieza",
+        "precio":10,
+        "stock":100,
+        "descripcion":"Un jabon hipoalergenico",
+        "imagen":"rosavenus.jpg"
+    
+    },
+    { 
+        "nombre":"asepixa",
+        "categoria":"facial",
+        "precio":250,
+        "stock":50,
+        "descripcion":"Un jabon para la limpieza del rostro, dejandolo suave",
+        "imagen":"asepxia.jpg"
+    }
+    
+]
